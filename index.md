@@ -30,4 +30,9 @@ Programming Languages:
 - yeah i can read x86assembly instructions but don't ask me to code in it
 ```
 ## Art
-Here is some of the digital art I've worked on in the past.
+Here is a sample of digital art I've worked on in the past. \
+When it comes to pixel art I mostly specialize in animation, especially relating to visual effects and character motion. \
+![Pixel Art Showcase](2025_Showcase.gif)
+
+This is the Steam banner for my upcoming game Kinetic Breakthrough, which I have not gotten too much work done on lately but will return to eventually.
+![Kinetic Breakthrough Banner](library_hero.png)
