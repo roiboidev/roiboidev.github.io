@@ -12,6 +12,7 @@ Besides working on programming assignments for classes, much of my programming e
 I've been working on games for over seven years and have submitted to every GMTK Game Jam since 2021. At this point it's like an annual event for me.
 
 **GMTK Game Jam Submission Scores:**
+
 | Year | Submission | Overall Placement |
 | -------- | -------- | -------- |
 | 2021    | Balloseum     | #1535     |
